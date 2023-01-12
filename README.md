@@ -1,4 +1,4 @@
-# mGm8d.github.io
-Maria Guenevere Mackenzie Dave
+### mGm8d.github.io
+*Maria Guenevere Mackenzie Dave*
 
-LG Brebeuf
+LG **Brebeuf**
