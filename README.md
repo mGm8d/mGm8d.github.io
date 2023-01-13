@@ -9,4 +9,4 @@ LG **Brebeuf**
 |--------|---------|-----------|----------|--------|
 | Breakfast | Egg | Tocino | Spam | Tapa | Corned beef |
 | Lunch | Sinigang | Chicken pork adobo | Seafood chopsuey | Fried fish | Igado |
-| Dinner | Sinigang | Chicken pork adobo | Seafood chopseuy | Noodles | Misua |
+| Dinner | Ham | Egg | Adobo | Noodles | Sinigang |
